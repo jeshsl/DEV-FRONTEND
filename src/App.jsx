@@ -49,7 +49,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React Sumaili Lubunga</h1>
+      <h1>Vite + React</h1>
       
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
@@ -87,6 +87,7 @@ function App() {
       
       <p className="read-the-docs">
         Cliquez sur les logos Vite et React pour en savoir plus
+        ce mini texet a été ajouté par sumaili!!!!
       </p>
     </>
   )
